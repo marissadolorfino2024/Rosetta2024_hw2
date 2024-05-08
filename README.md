@@ -28,7 +28,7 @@ Now you need to commit and push your changes to your repository. You can do this
 
 ## Final notes
 
-Your first instinct should be to ask your peers for help using the Slack channel. No need to be shy! Let's keep Deniz's DMs free for important things like cat pictures and memes.
+Your first instinct should be to ask your peers for help using the Slack channel. No need to be shy! Let's keep Marissa's DMs free for important things like cat pictures and memes.
 
 You are encouraged to reach out to your peers and the teaching team while working through this assignment. You can use the Slack channel to ask questions and discuss the homework. Thoroughly read through the assignment and attempt to complete it on your own before asking for help. When asking for help, be sure to include all relevant details and a screenshot of any error messages you are receiving (if applicable). 
 
